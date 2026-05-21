@@ -1,17 +1,11 @@
-## Hi there 👋
+# Hi there 👋 Welcome!
+![alt text](GerardoCastro1.jpg)
 
-<!--
-**softwareEngineer92139/softwareEngineer92139** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...<img width="1486" height="1974" alt="GerardoCastro" src="https://github.com/user-attachments/assets/2868561c-ffa2-4236-9b3e-4513feff0c00" />
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on improving my skills in Tech!
+- 🌱 I’m currently learning about operating systems
+- 👯 I’m looking to collaborate on projects, just to learn more about how to use GitHub
+- 🤔 I’m looking for help with how to improve my GitHub skills
+- 💬 Ask me about C++, Java, HTML, CSS, JavaScript, SQL, and accounting!
+- 📫 How to reach me: g.castro8009@student.nu.edu
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I enjoy social dancing! Also, on my free time I like to play classical guitar, go out on hikes, or cruise south of the border to Mexico to TJ and Ensenada, Valle de Guadalupe. 
